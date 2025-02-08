@@ -1,3 +1,2 @@
-# kkaarroollm.github.io
 
-## My website
+# [karolmarszalek.me](https://karolmarszalek.me)
